@@ -18,3 +18,5 @@
 15) git stash apply - вставляємо збережені зміни з буфера обміну
 16) git merge "banchName" - зливаємо гілку з назвою "branchName" в поточну гілку
 17) git merge --abort - відміняємо зливання гілок
+18) git branch -d branchName - видаляє гілку локально з проекту
+19) git push origin --delete name - видаляє гілку з сайту github
